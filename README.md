@@ -10,3 +10,6 @@ Are the questions valid? Even if Valid How much chance in reality would increase
 Yes they are valid and how they are valid or how much it would increase the sale is the interesting topic dealt by Aprirori algorithm.
 
 ### What is Apriori algorithm? :- 
+It is one of the data mining algorithm in which rules of association are formed which are nothing but suggestions of arrangement in markets or movies that can be watched. ***(here apriori algorithm is used in later case)***.
+
+## Methodolgy :- 
